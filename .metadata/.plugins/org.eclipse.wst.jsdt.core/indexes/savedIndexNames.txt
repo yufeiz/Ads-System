@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/home/yufeiz/Documents/ads_search/ads_server/Ads-Server-GRPC/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-62561941.index
-760602302.index
-1325410959.index
-3875503178.index
-3722473805.index
-1531361214.index
